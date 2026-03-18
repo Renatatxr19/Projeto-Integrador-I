@@ -1,4 +1,4 @@
-# Projeto Integrador I - ADS 🚀
+.# Projeto Integrador I - ADS 🚀
 
 ## 👥 Equipe
 * **Bruna Bonifácio**  - bruna.bonifacio@sempreceub.com
@@ -8,32 +8,41 @@
 ---
 
 ## 🏷️ Nome do Projeto
-**SocialLens BSB** — *Dashboard de BI e Transparência das ONGs do Distrito Federal.*
+**Rede solidária.*
 
 ---
 
-## 📝 Descrição
-Nós pensamos na ideia de criar o **SocialLens BSB** porque percebemos uma lacuna enorme entre os dados que o governo publica e o que o cidadão realmente consegue entender. Como estudantes de ADS, olhamos para os portais de transparência atuais e vimos tabelas infinitas e interfaces confusas que, em vez de informar, acabam afastando as pessoas.
+##  📝 Descrição do Projeto: Rede Solidária
 
-Nossa proposta é simplificar esse labirinto. Queremos pegar o 'ouro' (que são os dados brutos de Brasília) e lapidá-lo em uma ferramenta de BI direta, organizada e, acima de tudo, fácil de usar.
+O Rede Solidária é uma plataforma digital (Web/Mobile) desenvolvida para otimizar a gestão logística e a transparência no ecossistema de doações de itens físicos no Distrito Federal. Diferente de sistemas de crowdfunding financeiro, o foco da plataforma é o inventário de insumos críticos (alimentos, itens de higiene, fraldas geriátricas, insumos hospitalares e vestuário).
 
-**O que nos motivou:**
-* **A falta de clareza:** Hoje é difícil saber rápido se uma ONG é eficiente ou para onde o dinheiro está indo. Nós queremos mudar isso criando um **"Score de Transparência"** que dê essa resposta em segundos.
-* **A desigualdade de assistência:** Queremos mostrar no mapa onde as ONGs estão e onde elas faltam, para que o investimento social em Brasília seja mais justo.
-* **A democratização do dado:** Acreditamos que a tecnologia deve servir para traduzir a burocracia. O SocialLens BSB não é apenas um site; é a nossa forma de usar o desenvolvimento de sistemas para gerar impacto social real.
+O sistema funciona como uma ponte inteligente entre doadores e instituições de pequeno e médio porte, permitindo que a oferta de doações encontre a demanda real de forma balanceada e eficiente.
 
-Em resumo, o que vamos entregar é uma plataforma onde o usuário não precisa ser um especialista em finanças públicas para entender o bem que as instituições estão fazendo no Distrito Federal.
+## 💡 Motivação 
 
----
+A motivação para o desenvolvimento deste projeto surgiu da observação de três problemas críticos no cenário social de Brasília em 2026:
+
+-   A "Bolha" das Redes Sociais: Pequenas ONGs dependem exclusivamente de postagens em redes sociais (Instagram/WhatsApp) para pedir ajuda. Essa informação é volátil e muitas vezes não chega ao doador no momento certo, ou gera uma onda de doações de um único item, enquanto outros essenciais continuam em falta.
+  
+-  Desperdício e Desequilíbrio de Estoque: Sem uma ferramenta de gestão, é comum que instituições recebam excedentes de itens com data de validade próxima, enquanto enfrentam escassez crítica de insumos básicos por falta de comunicação coordenada.
+
+ -  Insegurança do Doador: O cidadão que deseja ajudar muitas vezes desiste por não saber o que é mais urgente, onde entregar ou como ter certeza de que sua doação chegou ao destino e gerou impacto.
+
+Acreditamos que a tecnologia de Análise e Desenvolvimento de Sistemas pode transformar a "caridade intuitiva" em "solidariedade estratégica", usando dados para combater a fome e a precariedade.
 
 ## 🎯 Objetivos Iniciais
-Nós estabelecemos como metas fundamentais para o início do projeto:
 
-* **Centralização de Dados Dispersos:** Consolidar, em uma única base de dados, as informações que hoje estão espalhadas entre o Mapa das OSCs (Ipea) e o Portal de Dados Abertos do DF.
-* **Simplificação da Interface (UX/UI):** Desenvolver um dashboard que elimine o "ruído" burocrático dos sites governamentais, priorizando uma navegação direta e visual para o usuário leigo.
-* **Criação do Índice de Transparência:** Implementar um algoritmo que gere uma nota (Score) para cada ONG, baseada na regularidade de suas prestações de contas públicas.
-* **Mapeamento da Assistência Social:** Identificar geograficamente as áreas de Brasília com maior e menor cobertura de projetos sociais, facilitando a identificação de "vazios assistenciais".
-* **Cálculo Automático de Eficiência:** Estruturar o sistema para que ele calcule automaticamente o custo por pessoa atendida, transformando valores financeiros em indicadores de impacto real.
+O projeto Rede Solidária busca atingir os seguintes marcos técnicos e sociais:
+
+-  Centralizar a Demanda: Criar um portal único onde qualquer ONG de Brasília possa listar suas necessidades em tempo real, eliminando a dependência de algoritmos de redes sociais.
+
+-  Implementar o "Termômetro de Urgência": Desenvolver um algoritmo simples de inventário que classifique os itens em Crítico (Faltando), Estável ou Suprido, direcionando o esforço do doador para o que realmente importa no dia.
+
+-  Garantir Rastreabilidade e Transparência: Estabelecer um fluxo de "Check-in" de doações (via QR Code ou ID), permitindo que o sistema gere um histórico confiável tanto para a auditoria da ONG quanto para o feedback ao doador.
+
+ -  Fomentar a Economia Local: Integrar geolocalização para que o doador encontre instituições próximas à sua residência ou trabalho, facilitando a logística de entrega e reduzindo custos de deslocamento.
+
+-  Gerar Dados Sociais (BI): Coletar dados sobre os itens mais demandados no DF para gerar relatórios que possam auxiliar políticas públicas ou futuras campanhas de grandes instituições.
 
 ---
 ## 🛠️ Papéis dos membros
@@ -42,9 +51,9 @@ Nós estabelecemos como metas fundamentais para o início do projeto:
 | :--- | :--- | 
 | **PO (Product Owner)** | Bruna Bonifácio PO (Product Owner)| 
 | **SM (Scrum Master)** | Renata Teixeira | 
-| **Dev Team** | Rafael Ramos | 
-| **AD / DBA** | *A definir* | 
-| **Arquiteto** | *A definir* | 
+| **Dev Team** | Todos | 
+| **AD / DBA** | Rafael Ramos | 
+| **Arquiteto** | Todos | 
 
 ---
 
