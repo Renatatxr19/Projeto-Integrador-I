@@ -1,0 +1,37 @@
+##  Documento AS IS/ TO BE
+
+AS IS (Cenário Atual: Processos Analógicos e Fragmentados)]
+
+
+O modelo atual de doações físicas para instituições filantrópicas de pequeno e médio porte baseia-se em fluxos informais de comunicação, gerando os seguintes gargalos:
+
+
+   1. Comunicação Reativa: A instituição identifica a escassez de um insumo (alimentos, higiene, vestuário) e utiliza canais de comunicação não estruturados (redes sociais e aplicativos de mensagem) para solicitar auxílio.
+
+   2. Informação Volátil: Os pedidos de doação são publicados em linhas do tempo (timelines) que perdem relevância rapidamente. O potencial doador muitas vezes visualiza uma necessidade que já foi suprida ou deixa de ver uma urgência atual.
+
+   3. Desequilíbrio de Estoque: Não há controle de concorrência. Múltiplos doadores podem enviar o mesmo item simultaneamente, gerando excedentes de um insumo e escassez crítica de outro (excesso de perecíveis que podem vencer antes do consumo).
+
+   4. Logística Cega: O doador não possui uma interface centralizada para consultar horários, locais e, principalmente, a prioridade real de cada item antes de realizar a compra ou o deslocamento.
+
+   5. Falta de Auditoria: O registro de recebimento é manual (muitas vezes em papel ou planilhas locais), dificultando a prestação de contas imediata e o feedback de impacto ao doador.
+
+
+
+TO BE (Cenário Proposto: Gestão de Dados e Inventário Social)
+
+
+A Rede Solidária propõe a digitalização da jornada da doação, transformando o processo em um fluxo de dados gerenciável:
+
+
+   1. Painel de Inventário Dinâmico: A instituição gerencia um catálogo de necessidades via sistema. Cada item possui um status de urgência (Crítico, Estável, Suprido) baseado no estoque real.
+
+   2. Portal de Transparência em Tempo Real: O sistema gera uma página pública de "Necessidades Atuais". O doador consulta o que é prioritário no exato momento da intenção de ajuda.
+
+   3. Reserva de Intenção (Gestão de Concorrência): Ao decidir doar, o usuário sinaliza o item e a quantidade no sistema. O software abate essa quantidade da "Necessidade Pública" temporariamente, evitando que a comunidade direcione recursos para itens já garantidos.
+
+   4. Geolocalização e Roteirização: O sistema integra mapas para facilitar o deslocamento do doador até o ponto de coleta mais próximo ou com maior urgência de recebimento.
+
+   5. Check-in Digital e Rastreabilidade: No ato da entrega, a instituição valida a doação via ID Único ou QR Code. O estoque é atualizado automaticamente e o sistema dispara uma notificação de confirmação/agradecimento ao doador.
+
+   6. Inteligência de Dados (BI): A plataforma consolida dados de fluxo de doações, permitindo que as instituições planejem campanhas futuras com base em sazonalidade e histórico de demandas.
