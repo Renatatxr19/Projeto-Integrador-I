@@ -1,0 +1,81 @@
+Feito por: Bruna 
+Plano de Projeto: Rede Solidária
+1. Metodologia de Trabalho
+
+Adotaremos o Framework Scrum adaptado ao calendário acadêmico:
+
+    Sprints: Quinzenais.
+
+    Reuniões: 1 vez por semana para alinhamento técnico.
+
+    Ferramentas: GitHub (Código/Issues), Azure (Hospedagem) e WhatsApp (Comunicação).
+
+2. Cronograma de Execução (Roadmap)
+Fase 1: Descoberta e Ideação (Março)
+
+    Foco: Entender o problema real das ONGs.
+
+    Atividades: Mapa de Empatia, Personas, Canvas de Proposta de Valor.
+
+    Entregável: Documento de Visão aprovado.
+
+Fase 2: Estruturação da Solução (Abril)
+
+    Foco: Transformar ideias em requisitos técnicos.
+
+    Atividades: * Criação do Product Backlog (User Stories).
+
+        Modelagem de Dados (MER/DER).
+
+        Protótipo de Baixa Fidelidade (Wireframes).
+
+        Setup do ambiente no Azure for Students.
+
+Fase 3: Desenvolvimento - "Mão na Massa" (Maio)
+
+    Foco: Construção do MVP.
+
+    Sprint 1: Desenvolvimento do Backend (API) e Base de Dados.
+
+    Sprint 2: Desenvolvimento do Frontend (Mapa e Painel da ONG).
+
+    Sprint 3: Integração do QR Code e Testes de Usabilidade.
+
+Fase 4: Entrega e Encerramento (Junho)
+
+    Foco: Pitch e Retrospectiva.
+
+    Atividades: Ajustes finais baseados em feedbacks, gravação da demo e apresentação do Pitch Final.
+
+3. Matriz de Responsabilidades (Equipe ADS)
+
+Para um grupo de até 3 pessoas, a divisão sugerida é:
+Integrante	Papel Sugerido	Responsabilidades
+A	Scrum Master / Backend	Gestão do Backlog e lógica do Banco de Dados/API.
+B	Frontend / UX Designer	Criação da interface (React/Next.js) e protótipos.
+C	DevOps / Quality Assurance	Configuração no Azure, Testes e Documentação Técnica.
+4. Plano de Comunicação
+
+    Interna: Grupo de WhatsApp para troca de mensagens rápidas.
+
+    Código: Commits diários no GitHub para evitar perda de trabalho.
+
+    Mentor: Consultas via fórum da disciplina ou presencialmente com a professora.
+
+5. Recursos e Ferramentas Técnicas
+
+    Linguagem: JavaScript/TypeScript (Node.js e React).
+
+    Banco de Dados: PostgreSQL (Relacional).
+
+    Infraestrutura: Azure App Service para hospedagem.
+
+    Versionamento: Git + GitHub.
+
+6. Orçamento (Budget)
+
+    Mão de Obra: Acadêmica (Custo R$ 0,00).
+
+    Serviços: Microsoft Azure via convênio educacional (Custo R$ 0,00).
+
+    Ferramentas: GitHub, Trello, Figma (Planos gratuitos).
