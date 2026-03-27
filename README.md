@@ -4,6 +4,7 @@
 * **Bruna Bonifácio**  - bruna.bonifacio@sempreceub.com
 * **Renata Teixeira**  - renata.teixeira@sempreceub.com
 * **Rafael Ramos**  - rafael.rcarvalho@sempreceub.com
+* **Ana Clara**  - anaclara0811@sempreceub.com
 
 ---
 
