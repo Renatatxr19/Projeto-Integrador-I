@@ -9,7 +9,7 @@
 ---
 
 ## 🏷️ Nome do Projeto
-**Rede solidária.*
+*Rede solidária.*
 
 ---
 
