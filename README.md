@@ -1,4 +1,4 @@
-.# Projeto Integrador I - ADS 🚀
+# Projeto Integrador I - ADS 🚀
 
 ## 👥 Equipe
 * **Bruna Bonifácio**  - bruna.bonifacio@sempreceub.com
