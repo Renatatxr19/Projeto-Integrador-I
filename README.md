@@ -13,7 +13,7 @@
 
 ---
 
-##  📝 Descrição do Projeto: Rede Solidária
+##  📝 Descrição do Projeto: Rede Solidária:Gerenciamento de ONGS pequenas e médias do DF
 
 O Rede Solidária é uma plataforma digital (Web/Mobile) desenvolvida para otimizar a gestão logística e a transparência no ecossistema de doações de itens físicos no Distrito Federal. Diferente de sistemas de crowdfunding financeiro, o foco da plataforma é o inventário de insumos críticos (alimentos, itens de higiene, fraldas geriátricas, insumos hospitalares e vestuário).
 
